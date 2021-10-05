@@ -5,3 +5,4 @@ which has grid of images with 1 duplicates of each image which are suffled, you 
 After 5 seconds all the cards will flip and you have to choose the matching cards.
 You will be given 6 lives to beat the game.
 Good Luck!!!
+[a link](https://niranjan-b-a.github.io/memory-game/)
